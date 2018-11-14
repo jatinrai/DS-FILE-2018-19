@@ -1,3 +1,4 @@
+/* Sort the list of integers using heap tree (Heap sort) */
 using namespace std;
 int i;
 void max_heapify(int a[],int i,int n){
