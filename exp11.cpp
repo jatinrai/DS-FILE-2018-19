@@ -1,4 +1,12 @@
-
+/* Write a menu driven program that implements the following operations on a   
+Binary search tree :
+•	Insert a new element 
+•	Delete an existing element
+•	Traversing the tree
+o	Pre-order Traversal
+o	In-order Traversal 
+o	Post-order Traversal
+*/
 #include<iostream>
 using namespace std;
 struct node
